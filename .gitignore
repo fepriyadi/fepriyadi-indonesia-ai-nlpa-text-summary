@@ -2,3 +2,4 @@ dataset/canonical/*
 dataset/sampled_100k/*
 indolem-indobert-finetuned/*
 indolem-indobert-finetuned-out/*
+bertsumext-finetuned-out/*
